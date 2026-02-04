@@ -190,3 +190,7 @@ A filosofia central é simples:
 
 > A liberdade financeira não está em prever o futuro, mas em possuir ativos que o tempo e a corrupção política não conseguem destruir.
 
+📂 NotebookLM (Base do Projeto)
+
+🔗 https://notebooklm.google.com/notebook/cc072468-2b50-4c4d-ac2f-962e9f9508fd
+
