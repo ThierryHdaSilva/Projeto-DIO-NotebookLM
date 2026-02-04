@@ -182,8 +182,24 @@ A filosofia central é simples:
 * [https://www.youtube.com/watch?v=mXuWf9QmxMo](https://www.youtube.com/watch?v=mXuWf9QmxMo)
 * [https://www.youtube.com/watch?v=dMn-jlw_WsQ](https://www.youtube.com/watch?v=dMn-jlw_WsQ)
 
-### Livros e Artigos
+#### Livros e Artigos
+Livros
 
+Obras clássicas de economia, teoria monetária e sistema bancário, obtidas de forma legal no Mises Institute:
+
+The Mystery of Banking — Murray N. Rothbard
+
+Man, Economy, and State — Murray N. Rothbard
+
+The Theory of Money and Credit — Ludwig von Mises
+
+Economic Policy: Thoughts for Today and Tomorrow — Ludwig von Mises
+
+#### Artigos
+
+Quantitative Finance Has a Rotten Foundation — Mises Institute https://mises.org/mises-wire/quantitative-finance-has-rotten-foundation
+
+#### retirados do site:
 * [https://mises.org/](https://mises.org/)
 
 ---
