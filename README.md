@@ -210,3 +210,15 @@ Quantitative Finance Has a Rotten Foundation — Mises Institute https://mises.o
 
 🔗 https://notebooklm.google.com/notebook/cc072468-2b50-4c4d-ac2f-962e9f9508fd
 
+# 📌 Declaração de Autoria, Uso Educacional e Conformidade
+
+Este projeto foi desenvolvido exclusivamente para fins educacionais, sem qualquer objetivo comercial, promocional ou lucrativo. Todo o conteúdo textual apresentado é autoral, consistindo em análises, sínteses críticas e interpretações próprias do autor, elaboradas a partir de fontes públicas, legais e livremente acessíveis.
+
+As referências externas (vídeos, livros e artigos) são utilizadas apenas como base de estudo, estando devidamente indicadas por meio de links ou menções às fontes originais, sem reprodução integral ou parcial de conteúdo proprietário de terceiros ou da plataforma DIGITAL INNOVATION ONE.
+
+Este material não copia, redistribui, adapta ou reproduz aulas, textos, vídeos, exercícios, projetos, layouts ou quaisquer outros conteúdos protegidos por direitos autorais pertencentes à DIGITAL INNOVATION ONE ou a seus parceiros.
+
+As opiniões, análises e conclusões expressas neste projeto são de inteira responsabilidade do autor e não representam, direta ou indiretamente, a posição, endosso ou validação institucional da DIGITAL INNOVATION ONE.
+
+O projeto está em conformidade com os Termos de Uso da DIGITAL INNOVATION ONE, respeitando integralmente as normas de propriedade intelectual, uso não comercial da plataforma e publicação de conteúdo autoral.
+
