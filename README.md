@@ -182,8 +182,8 @@ A filosofia central é simples:
 * [https://www.youtube.com/watch?v=mXuWf9QmxMo](https://www.youtube.com/watch?v=mXuWf9QmxMo)
 * [https://www.youtube.com/watch?v=dMn-jlw_WsQ](https://www.youtube.com/watch?v=dMn-jlw_WsQ)
 
-#### Livros e Artigos
-Livros
+### Livros e Artigos
+#### Livros
 
 Obras clássicas de economia, teoria monetária e sistema bancário, obtidas de forma legal no Mises Institute:
 
@@ -206,7 +206,7 @@ Quantitative Finance Has a Rotten Foundation — Mises Institute https://mises.o
 
 > A liberdade financeira não está em prever o futuro, mas em possuir ativos que o tempo e a corrupção política não conseguem destruir.
 
-📂 NotebookLM (Base do Projeto)
+# 📂 NotebookLM (Base do Projeto)
 
 🔗 https://notebooklm.google.com/notebook/cc072468-2b50-4c4d-ac2f-962e9f9508fd
 
